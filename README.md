@@ -14,3 +14,5 @@ This project demonstrates Jenkins integration with GitHub.
 - Jenkins
 - HTML
 - Python
+
+GrapeVista website successfully integrated with Jenkins and GitHub.
